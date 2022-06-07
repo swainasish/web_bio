@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Welcome to my profile 
+# About ME
 
-You can use the [editor on GitHub](https://github.com/swainasish/web_bio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+* Myself Asish, Ph.D. student at Indian Institute of Technology, Jodhpur. Currently, my primary research interest lies in solving biological problems by developing computational and statistical tools.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* I did my MS from Indian Institute of science education and research, Mohali where I launch into research. In my early days, I spent significant time in core biofields like developmental, cancer, Immuno and structural bio labs.
 
-### Markdown
+* Apart from these, I love to travel to remote places whenever I got some spare time.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Education 
+#### Indian Institute of Technology, Jodhpur,India [2020- Present]
+- Phd in Single cell and spatial transcriptomics analysis
+#### Indian Institute of Science Education and Research(IISER),Mohali,India [2015-2020]
+ - BS and MS in Biological Science
 
-```markdown
-Syntax highlighted code block
+# Scholastic Achivements 
+- DST INSPIRE Fellow [2015-2020]
+- Qualified GATE(Graduate Aptitude Test in Engineering)-Biotechnology & NET-Ls Exam
 
-# Header 1
-## Header 2
-### Header 3
+# Research Work Experience 
+#### MS THESIS 
+- Computaionally  Molecular modelling of MTHFR proteins across eukaryotic phylogeny [2019-2020]
+ - 3D MTHFR Protein modelled & Problematic loops refined and validated
+- Docking of FAD, SAM in models to get insight into binding modes
+- 14 nsSNPs identified that affect structure and dynamics of human MTHFR
+#### Internships 
+- Immunology lab [2018]
+- Devlopmental lab [2016]
 
-- Bulleted
-- List
+# Publications 
+- Coming - soon 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Skills 
 
-[Link](url) and ![Image](src)
-```
+- NGS data pre-processing and analysis (using Bash & BIOCONDUCTOR )
+- Big data analysis using Machine learning and statistical techniques
+- Web scraping and Natural language processing [Basics] 
+- Programming languages - Python | R | Bash (More Familiar) | HTML | C | MATLAB | LaTeX
+- Libraries [R & Python ] - Tidyverse | Bioconductor | Scikit-learn | Pandas | Numpy | PyTorch | Seaborn | Flask
+- Machine learning - Regression | Classification | Feature engineering | Predictive Model | Model deployment
+-   OS - Linux, MacOS ,Windows [ proficiency in Linux Distros ]
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swainasish/web_bio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Contact me and profiles 
+###### mail 
+-  swain.3@iitj.ac.in 
+-  swainasish@yahoo.com 
+###### Google scholar 
+ - Coming soon 
+###### Research gate 
+-  [RG]( https://www.researchgate.net/profile/Asish-Swain)
+      
