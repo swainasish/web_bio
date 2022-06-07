@@ -24,6 +24,7 @@
  - 3D MTHFR Protein modelled & Problematic loops refined and validated
 - Docking of FAD, SAM in models to get insight into binding modes
 - 14 nsSNPs identified that affect structure and dynamics of human MTHFR
+
 #### Internships 
 - Immunology lab [2018]
 - Devlopmental lab [2016]
@@ -37,17 +38,19 @@
 - NGS data pre-processing and analysis (using Bash & BIOCONDUCTOR )
 - Big data analysis using Machine learning and statistical techniques
 - Web scraping and Natural language processing [Basics] 
-- Programming languages - | Python | R | Bash (More Familiar) | HTML | C | MATLAB | LaTeX
-- Libraries -| Tidyverse | Bioconductor | Scikit-learn | Pandas | Numpy | PyTorch | Seaborn | Flask
-- Machine learning -  | Regression | Classification | Feature engineering | Predictive Model | Model deployment
--   OS - Linux, MacOS ,Windows ( proficiency in Linux Distros )
+- Programming languages  | Python | R | Bash (More Familiar) | HTML | C | MATLAB | LaTeX
+- Libraries | Tidyverse | Bioconductor | Scikit-learn | Pandas | Numpy | PyTorch | Seaborn | Flask
+- Machine learning   | Regression | Classification | Feature engineering | Predictive Model | Model deployment
+- OS - Linux, MacOS ,Windows ( proficiency in Linux Distros )
 
 # Contact me and profiles 
 ###### Mail 
 -  swain.3@iitj.ac.in 
 -  swainasish@yahoo.com 
+
 ###### Google scholar 
  - Coming soon 
+ 
 ###### Research gate 
 -  [RG]( https://www.researchgate.net/profile/Asish-Swain)
       
