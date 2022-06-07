@@ -18,6 +18,9 @@
 - DST INSPIRE Fellow [2015-2020]
 - Qualified GATE(Graduate Aptitude Test in Engineering)-Biotechnology & NET-Ls Exam
 
+# Projects 
+- Coming soon
+
 # Research Work Experience 
 #### MS THESIS 
 - Computaionally  Molecular modelling of MTHFR proteins across eukaryotic phylogeny [2019-2020]
@@ -42,6 +45,7 @@
 - Libraries | Tidyverse | Bioconductor | Scikit-learn | Pandas | Numpy | PyTorch | Seaborn | Flask
 - Machine learning   | Regression | Classification | Feature engineering | Predictive Model | Model deployment
 - OS - Linux, MacOS ,Windows ( proficiency in Linux Distros )
+
 
 # Contact me and profiles 
 ###### Mail 
